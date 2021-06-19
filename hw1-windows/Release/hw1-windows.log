@@ -1,0 +1,10 @@
+﻿  Geometry.cpp
+  main.cpp
+  shaders.cpp
+  Transform.cpp
+  grader.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 681 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  hw1-windows.vcxproj -> C:\Users\Pushpendra Upadhyay\Desktop\Pushpendra\Study\Computer Graphics UC San DiegoX CSE167x\hw1-windows\Release\hw1-windows.exe
